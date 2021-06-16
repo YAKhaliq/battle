@@ -9,4 +9,5 @@ gem 'webrick'
 gem 'sinatra-contrib'
 gem 'capybara'
 gem 'selenium-webdriver'
+gem 'rspec'
 # gem "rails"
